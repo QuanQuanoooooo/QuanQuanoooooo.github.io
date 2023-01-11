@@ -1,0 +1,138 @@
+---
+title: The-Economist——Why big tech should fear Europe
+date: 2019-03-22 16:50:43
+tags: The Economist
+---
+
+<center>
+	<font color=red size=3>The future of big tech</font> 
+	<br>
+	<font color=black size=5>Why big tech should fear Europe</font>
+</center>
+
+------------
+![](/avatar/20190323_LDD001.jpg)
+> To understand the future of `Silicon Valley`(硅谷), cross the Atlantic
+
+“The birthday of a new world is at hand<sup>[1]</sup>.” Ever since Thomas Paine penned<sup>[2]</sup> those words in 1776, America has seen itself as the land of the new—and Europe as a continent stuck<sup>[3]</sup> in the past. Nowhere is that truer than in the tech industry.<sup>[4]</sup> America is home to 15 of the world’s 20 most valuable tech firms; Europe has one. Silicon Valley is where the brainiest ideas meet the smartest money. America is also where the debate rages<sup>[5]</sup> loudly over how to tame<sup>[6]</sup> the tech giants<sup>[7]</sup>, so that they act in the public interest.<sup>[8]</sup> Tech tycoons<sup>[9]</sup> face roastings<sup>[10]</sup> by Congress<sup>[11]</sup> for their firms’ privacy lapses<sup>[12]</sup>. Elizabeth Warren, a senator<sup>[13]</sup> who is running for<sup>[14]</sup> president in 2020, wants Facebook to be broken up.
+>[1] at hand 即将到来[新世界的生日就在眼前]
+>[2] pen v.撰写
+>[3] stuck adj.被困住的;动不了的;陷入的;停滞不前的;
+>[4] 这一点在科技行业最为明显[没有比技术行业更真实的了]
+>[5] debate rages 辩论激烈 debate n.辩论;(议会投票前的)正式讨论 rage v.(战斗、争论)激烈进行;(暴风雨)肆虐
+>[6] tame v.驯化
+>[7] giants n.[c]大企业;大国
+>[8] 在美国/关于如何驯服这些科技巨头/使它们的行为符合公众利益的/争论也十分激烈 act in 在…方面行动 play,take a part of
+>[9] tycoon n.(工商界的)大亨
+>[10] roastings n.严厉批评 severe criticism
+>[11] Congress 美国国会
+>[12] lapse n.[c]小错;(尤指)记错,过失,疏忽
+>[13] senator n.参议员
+>[14] run for 竞选;匆匆去取
+
+Yet if you want to understand where the world’s most powerful industry is heading<sup>[1]</sup>, look not to Washington and California, but to Brussels and Berlin. In an inversion<sup>[2]</sup> of the rule of thumb<sup>[3]</sup>, while America dithers<sup>[4]</sup> the European Union is acting. This week Google was fined $1.7bn for strangling competition<sup>[5]</sup> in the advertising market. Europe could soon pass new digital copyright laws<sup>[6]</sup>. Spotify has complained to<sup>[7]</sup> the eu about Apple’s alleged antitrust abuses<sup>[8]</sup>. And, as our briefing<sup>[9]</sup> explains, the eu is pioneering<sup>[10]</sup> a distinct<sup>[11]</sup> tech doctrine<sup>[12]</sup> that aims to give individuals control over their own information and the profits from it, and to prise<sup>[13]</sup> open tech firms to competition.<sup>[14]</sup> If the doctrine works, it could benefit millions of users, boost the economy and constrain tech giants that have gathered immense power without a commensurate<sup>[15]</sup> sense of responsibility.<sup>[16]</sup>
+>[1] head v.行进在…的前头;居…之首;掌管;朝着…行进,朝…发展+for
+>[2] inversion n.倒置;颠倒;an inversion of the truth 颠倒是非
+>[3] rule of thumb 经验法则
+>[4] dither v.犹豫
+>[5] strangling competition 扼杀竞争 strangle v.扼死;抑制 fine vt.罚款
+>[6] digital copyright law 数字版权法律
+>[7] complain to 向...抱怨;向...投诉
+>[8] alleged antitrust abuse 所谓的反垄断滥用 alleged adj.所谓的;声称的;被断言的 antitrust adj.反垄断的 abuse n.[c]滥用;[un]虐待;辱骂
+>[9] briefing n.(做某事前得到的)简要指示,情况简介
+>[10] pioneer v.开创,开发;倡导
+>[11] distinct adj.有区别的;清楚的;明显的,确切的
+>[12] doctrine n.(尤指宗教的)信条;学说
+>[13] prise v.(value extremely highly)珍视;高度重视 ~ sth (for sth)
+>[14] 正如我们的简报所解释的那样/欧盟正在开创一种独特的技术原则/旨在让个人控制(give individuals control)自己的信息和从中获得的利润/并奖励开放的科技公司参与竞争
+>[15] commensurate adj.成比例的;相称的
+>[16] 如果这一原则能够奏效(works),它将使数百万用户受益(benefit millions of users)促进经济发展(boost the economy)并约束(constrain)那些在没有相应的(commensurate)责任感(sense of responsibility)的情况下/积聚了巨大权力的(gathered immense power)科技巨头
+
+Western regulators<sup>[1]</sup> have had showdowns<sup>[2]</sup> over antitrust with tech firms before, including ibm in the 1960s and Microsoft in the 1990s. But today’s giants are accused not just of capturing huge rents and stifling<sup>[3]</sup> competition, but also of worse sins<sup>[4]</sup>, such as destabilising<sup>[5]</sup> democracy (through misinformation) and abusing individual rights (by invading privacy). As ai takes off<sup>[6]</sup>, demand for information is exploding<sup>[7]</sup>, making data a new and valuable resource. Yet vital questions remain: who controls the data? How should the profits be distributed? The only thing almost everyone can agree on is that the person deciding cannot be Mark Zuckerberg, Facebook’s scandal-swamped boss.<sup>[8]</sup>
+>[1] regulator n.监管人;监管机构
+>[2] showdown n.摊牌;紧要关头;最后一决胜负[西方监管机构此前也曾就反垄断问题与科技公司摊牌]
+>[3] stifle v.压制;忍住(呵欠或笑声);控制(感情或行为)
+>[4] sin n.罪过,罪孽;罪人;违背道德原则的行为v.犯戒律[而且被指责犯下更严重的罪行]
+>[5] destabilise adj.使不稳定
+>[6] take off (飞机)起飞;突然成功;(常指突然且出人意料地)离开[随着人工智能的腾飞]
+>[7] explode 使爆炸,爆炸;(情感)迸发;暴涨[对信息的需求正在爆炸式增长]
+>[8] 几乎所有人都同意的/唯一一件事是/做出决定的人/不可能是Facebook丑闻缠身的老板马克•扎克伯格(Mark Zuckerberg)
+
+The idea of the eu taking the lead on<sup>[1]</sup> these questions will seem bizarre<sup>[2]</sup> to many executives<sup>[3]</sup> who view it as an entrepreneurial wasteland<sup>[4]</sup> and the spiritual home of bureaucracy.<sup>[5]</sup> In fact, Europe has clout<sup>[6]</sup> and new ideas. The big five tech giants, Alphabet, Amazon, Apple, Facebook and Microsoft, make on average a quarter of their sales there. And as the world’s biggest economic bloc<sup>[7]</sup>, the eu’s standards are often copied<sup>[8]</sup> in the emerging world. Europe’s experience of dictatorship<sup>[9]</sup> makes it vigilant<sup>[10]</sup> about privacy. Its regulators are less captured by lobbying<sup>[11]</sup> than America’s and its courts have a more up-to-date<sup>[12]</sup> view of the economy. Europe’s lack of tech firms helps it take a more objective stance<sup>[13]</sup>.
+>[1] take the lead v.带头;为首
+>[2] bizarre adj.怪异的
+>[3] executive n.执行总监adj.执行的;高级的
+>[4] entrepreneurial wasteland 创业荒地 entrepreneurial adj.企业家的,创业者的;中间商的
+>[5] 在许多高管看来/欧盟在这些问题上/发挥带头作用的/想法/似乎有些奇怪/他们认为欧盟是/一片创业荒地/是官僚主义的(bureaucracy)精神家园
+>[6] clout n.[un]影响力
+>[7] bloc n.(具有相似政治目标和利益的国家结成的)阵营
+>[8] copy 抄袭;效仿[欧盟的标准经常被新兴国家效仿]
+>[9] dictatorship n.专政;独裁国家
+>[10] vigilant adj.警惕的[欧洲的独裁经历使其对隐私保持警惕]
+>[11] capture by lobbying 被游说所左右 lobby v.游说n.游说团体;大厅
+>[12] up-to-date adj.最新的;掌握最新信息的[与美国相比，欧洲的监管机构较少受到游说的影响,它的法院对经济的看法也更与时俱进]
+>[13] stance n.(对某事的)态度;立场
+
+A key part of Europe’s approach<sup>[1]</sup> is deciding what not to do. For now it has dismissed<sup>[2]</sup> the option of capping<sup>[3]</sup> tech firms’ profits and regulating them like utilities<sup>[4]</sup>, which would make them stodgy<sup>[5]</sup>, permanent monopolies<sup>[6]</sup>. It has also rejected break-ups<sup>[7]</sup>: thanks to network effects, one of the Facebabies or Googlettes might simply become dominant again. Instead the eu’s doctrine marries<sup>[8]</sup> two approaches. One draws on<sup>[9]</sup> its members’ cultures, which, for all<sup>[10]</sup> their differences, tend to<sup>[11]</sup> protect individual privacy. The other uses the eu’s legal powers to boost competition<sup>[12]</sup>.
+>[1] approach n.方法;途径;接近
+>[2] dismiss v.不予理会;不再考虑
+>[3] cap v.限定金额
+>[4] utility n.公用事业
+>[5] stodgy adj.墨守成规的,古板而乏味的[含贬义]
+>[6] 目前/它已经放弃了(限制科技公司利润/并像公用事业公司那样监管它们)的选择/这将使它们成为顽固的永久的垄断企业(monopoly)
+>[7] break-up 关系破裂
+>[8] doctrine n.(尤指宗教的)信条;学说 marry v.紧密联合[而不是欧盟的学说结合两种方法]
+>[9] draw on 利用;吸收
+>[10] for all 尽管;虽然
+>[11] tend to 趋向;注意;易于;有...的倾向[一种是利用其成员的文化/尽管他们之间存在差异/但这种倾向于保护个人隐私]
+>[12] boost competition 促进竞争
+
+The first leads to the assertion<sup>[1]</sup> that you have sovereignty<sup>[2]</sup> over data about you: you should have the right to access them, amend<sup>[3]</sup> them and determine who can use them. This is the essence<sup>[4]</sup> of the General Data Protection Regulation (gdpr), whose principles are already being copied by many countries across the world. The next step is to allow interoperability<sup>[5]</sup> between services, so that users can easily switch between providers, shifting to firms that offer better financial terms or treat customers more ethically.<sup>[6]</sup> (Imagine if you could move all your friends and posts to Acebook, a firm with higher privacy standards than Facebook and which gave you a cut of<sup>[7]</sup> its advertising revenues.) One model is a scheme in Britain called Open Banking, which lets bank customers share their data on their spending habits, regular payments and so on with other providers.<sup>[8]</sup> A new report for Britain’s government says that tech firms must open up in the same way.
+>[1] lead to the assertion 导致断言[第一种观点认为]
+>[2] sovereignty n.[un]统治权
+>[3] have the right to access them 有权访问它们 amend v.修正;做补偿
+>[4] essence n.[un]本质;至关重要of the essence
+>[5] interoperability n.[计]互操作性;互用性
+>[6] 下一步是/允许服务之间的互操作性/这样用户可以很容易地在提供者之间切换(switch)转向(提供更好的财务条款(terms)或更合乎道德(ethically)地对待客户的)公司
+>[7] a cut of 削减[从它的广告收入中分一杯羹]
+>[8] 其中一种模式是/英国的一项名为“开放银行”的计划(scheme)该计划允许/银行客户与其他提供者/分享他们的/消费习惯/定期付款(regular payments)/等数据
+
+Europe’s second principle is that firms cannot lock out<sup>[1]</sup> competition. That means equal treatment<sup>[2]</sup> for rivals who use their platforms. The eu has blocked<sup>[3]</sup> Google from competing unfairly with shopping sites that appear in its search results or with rival browsers that use its Android operating system.<sup>[4]</sup> A German proposal says that a dominant firm must share bulk, anonymised data<sup>[5]</sup> with competitors, so that the economy can function properly<sup>[6]</sup> instead of being ruled by<sup>[7]</sup> a few data-hoarding<sup>[8]</sup> giants. (For example, all transport firms should have access to<sup>[9]</sup> Uber’s information about traffic patterns<sup>[10]</sup>.) Germany has changed its laws to stop tech giants buying up<sup>[11]</sup> scores of startups<sup>[12]</sup> that might one day pose a threat.<sup>[13]</sup>
+>[1] lock out  把…关在门外
+>[2] equal treatment 平等对待,一视同仁 fair play
+>[3] block v.堵塞,封锁;挡住;阻挡;阻止
+>[4] 欧盟/已阻止/谷歌与(出现在其搜索结果中的购物网站)或(使用其Android操作系统的竞争对手浏览器)展开不公平竞争
+>[5] bulk, anonymised data 大量匿名数据 bulk 大块;大部分 anonymise v.匿名
+>[6] function properly 正常运作;正常工作
+>[7] rule v.统治;严重影响,制约sth rules your life;裁定rules that sth is true or should happen
+>[8] data-hoarding 数据囤积 hoard v.贮藏 n.藏品
+>[9] have access to 使用;接近;可以利用 make use of, employ
+>[10] traffic pattern 交通模式
+>[11] buy up 全部(或尽量)买下
+>[12] scores of startups 大量创业公司 scores of 许多,大量 startup n.新创办的小公司 adj.启动所需的(资金);新创办的(小公司)
+>[13] pose a threat 构成威胁;形成一种威胁[德国已经改变其法律/以阻止/科技巨头/收购(可能有一天构成威胁的)大量创业公司]
+
+Europe’s approach offers a new vision, in which consumers control their privacy and how their data are monetised<sup>[1]</sup>. Their ability to switch<sup>[2]</sup> creates competition that should boost choice and raise standards. The result should be an economy in which consumers are king and information and power are dispersed.<sup>[3]</sup> It would be less cosy<sup>[4]</sup> for the tech giants. They might have to offer a slice<sup>[5]</sup> of their profits (the big five made $150bn last year) to their users, invest more or lose market share.<sup>[6]</sup>
+>[1] monetise v.使货币化
+>[2] ability to switch 转换的能力 
+>[3] 其结果应该是(一个消费者为王、信息和权力分散的)经济 dispersed adj.分散的
+>[4] cosy adj.温暖舒适的(尤指狭小的室内地方);亲密无间的,密切的;轻易得到的,轻松的(但不一定是诚实或恰当的)
+>[5] slice n.(情况或活动的)部分;(切下的食物)薄片
+>[6] 它们可能不得不/向他们的用户/提供一部分利润(五大巨头去年的利润为1500亿美元)/要么加大投资/要么失去市场份额
+
+The European approach has risks. It may prove hard to achieve true interoperability<sup>[1]</sup> between firms. So far, gdpr has proved clunky<sup>[2]</sup>. The open flow of data should not cut across the concern<sup>[3]</sup> for privacy. Here Europe’s bureaucrats will have to rely on entrepreneurs, many of them American, to come up with answers<sup>[4]</sup>. The other big risk is that Europe’s approach is not adopted elsewhere<sup>[5]</sup>, and the continent becomes a tech Galapagos, cut off from the mainstream<sup>[6]</sup>. But the big firms will be loth to<sup>[7]</sup> split their businesses into two continental silos<sup>[8]</sup>. And there are signs that America is turning more<sup>[9]</sup> European on tech: California has adopted a law that is similar to gdpr. Europe is edging<sup>[10]</sup> towards cracking the big-tech puzzle<sup>[11]</sup> in a way that empowers consumers, not the state or secretive monopolies.<sup>[12]</sup> If it finds the answer, Americans should not hesitate to copy it—even if that means looking to the lands their ancestors left behind.<sup>[13]</sup>
+>[1] prove to 给…证明 interoperability n.[计]互操作性；互用性[事实可能证明，实现公司之间真正的互操作性是困难的。]
+>[2] clunky adj.笨重的[到目前为止,gdpr已经被证明了增长缓慢]
+>[3] cut across 超越(界限) concern n.担忧 v.使担忧;关心[开放的数据流不应跨越对隐私的担忧]
+>[4] come up with answers 想出答案
+>[5] elsewhere adv.在别处地;去别处地[欧洲的做法没有在其他地方得到采纳]
+>[6] cut off from the mainstream 脱离主流[与主流隔绝]
+>[7] be loth to 不情愿;不乐意;勉强
+>[8] silo n.(农场储存草料、谷物等的)筒仓
+>[9] turning more 越来越倾向于 there are signs that 有迹象表明
+>[10] edge toward 朝...方向慢慢移动 edge v.慢慢移动
+>[11] cracking the big-tech puzzle 破解高科技难题 crack v.使…破裂,破裂;破解(难题、密码);(精神)垮掉
+>[12] 欧洲正以一种(增强消费者/而非国家或秘密垄断力量secretive monopolies)的方式，逐步(edge toward)破解大型科技难题
+>[13] 如果它找到了答案,美国人应该/毫不犹豫地(not hesitate to)/复制它——即使这意味着寻找他们祖先留下的(left behind)土地。
+
+This article appeared in the Leaders section of the print edition under the headline "Europe takes on the tech giants"

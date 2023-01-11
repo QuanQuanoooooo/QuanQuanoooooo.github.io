@@ -1,0 +1,149 @@
+---
+title: The Economist——Oh \*\*UK! What next for Brexit?
+date: 2019-03-17 11:23:09
+tags: The Economist
+---
+
+<center>
+	<font color=red size=3>A country in chaos</font> 
+	<br>
+	<font color=black size=5>Oh \*\*UK! What next for Brexit?</font>
+</center>
+
+------------
+![](/avatar/20190316_ldd001.jpg)
+> Britain’s political crisis has reached new depths. `Parliament`(议会)must seize the `initiative`(主动权)
+
+When historians come to write the tale<sup>[1]</sup> of Britain’s attempts<sup>[2]</sup> to leave the European Union, this week may be seen as the moment the country finally grasped the mess<sup>[3]</sup> it was in. In the campaign, Leavers had promised voters that Brexit<sup>[4]</sup> would be easy because Britain “holds all the cards”. This week Parliament was so scornful<sup>[5]</sup> of the exit deal that Theresa May had spent two years negotiating and renegotiating<sup>[6]</sup> in Brussels that mps<sup>[7]</sup> threw it out for a second time<sup>[8]</sup>, by 149 votes—the fourth-biggest government defeat<sup>[9]</sup> in modern parliamentary history.<sup>[10]</sup> The next day mps rejected what had once been her back-up plan<sup>[11]</sup> of simply walking out without a deal.<sup>[12]</sup> The prime minister has lost control. On Wednesday four cabinet ministers failed to back her in a crucial vote. Both main parties, long divided over Brexit, are seeing their factions<sup>[13]</sup> splintering<sup>[14]</sup> into ever-angrier sub-factions.<sup>[15]</sup> And all this just two weeks before exit day.
+>[1] tale n.故事(常包含神奇的或令人激动的事件);(对真实事件的有趣的、令人激动的、戏剧性的)描述
+>[2] attempts n.(常指不成功的)企图make an ~ to do sth;(杀人)企图+on;v.试图(尤指做困难的事)+to
+>[3] grasp the mess 掌握这个烂摊子 grasp v.抓牢;理解+sth;n.紧握in sb's ~/slips from your ~;为某人所能及sthing is within sb's grasp[当历史学家们开始/撰写/英国试图脱离欧盟的/故事时，本周/可能/被视为/英国/终于意识到/自己所处困境/的时刻]
+>[4] Brexit n.英国退欧
+>[5] scornful adj.轻蔑的;嘲笑的 scornful of sb or sth
+>[6] negotiating and renegotiating 反复谈判(谈判和重新谈判)
+>[7] mps 国会议员(member of parliament) MPs(MP的复数形式)
+>[8] for a second time  又一次;再次
+>[9] defeat v.击败+sb;(以多数票)挫败a proposal or motion in a debate is defeated;难倒;使受挫
+>[10] 本周/英国议会/对脱欧协议/嗤之以鼻/以至于/特蕾莎•梅(Theresa May)花了两年时间在布鲁塞尔反复谈判/结果以149票的微弱优势再次否决了该协议(threw it out)——这是/现代议会历史上/政府遭遇的/第四大/挫败
+>[11] back-up plan 后备计划/备用计划 back-up证实;备份;(以行动)支持+by action;支持(某人);证实…的话 back sb up
+>[12] 第二天/国会议员/否决了/她曾经的/后备计划/即不达成协议就走人(simply walking out without a deal)
+>[13] factions n.派系
+>[14] splinter v.使碎成片;碎成片n.薄而尖的碎片
+>[15] 长期以来/两大主要政党/在英国退欧问题上/一直存在分歧/如今它们的派系/正分裂成/越来越愤怒的/小派系
+
+Even by the chaotic standards of the three years since the referendum<sup>[1]</sup>, the country is lost<sup>[2]</sup> (see article). Mrs May boasted<sup>[3]</sup> this week of “send[ing] a message to the whole world about the sort of<sup>[4]</sup> country the United Kingdom will be”. She is not wrong: it is a laughing-stock<sup>[5]</sup>. An unflappable<sup>[6]</sup> place supposedly built on compromise and a stiff upper lip<sup>[7]</sup> is consumed<sup>[8]</sup> by accusations<sup>[9]</sup> of treachery and betrayal.<sup>[10]</sup> Yet the demolition<sup>[11]</sup> of her plan offers Britain a chance to rethink its misguided approach to leaving the eu. Mrs May has made the worst of a bad job. This week’s chaos gives the country a shot at<sup>[12]</sup> coming up with<sup>[13]</sup> something better.
+>[1] referendum n.公民投票;全民公决
+>[2] lost (lose的过去分词)失败
+>[3] boast n./v.吹嘘
+>[4] the sort of 那种;那一类的[她“向全世界传达了一个信息，即英国将成为一个什么样的国家”]
+>[5] laughing-stock n.笑柄;笑料
+>[6] unflappable adj.(人)镇定的
+>[7] a stiff upper lip 坚定不移,,泰然自若 stiff adj.硬的;不易弯曲的 lip n.嘴唇
+>[8] consumed adj.极受影响的 comsume v. 吃;喝;消耗
+>[9] accusations of treachery and betrayal 背信弃义和背叛的 accusation n.指责;指控 treachery n.[un]背叛 betrayal n.背叛行为
+>[10] 一个/本应/建立在/妥协基础上的/镇定自若的/地方，却被/背信弃义和背叛的/指控/所吞噬。
+>[11] demolition n.拆毁(计划被取消)
+>[12] give a shot at 给...一个机会
+>[13] coming up with 提出;想出;赶上[本周的混乱让这个国家有机会想出更好的东西]
+
+The immediate consequence<sup>[1]</sup> of the rebellion in Westminster is that Brexit must be delayed. As we went to press<sup>[2]</sup>, Parliament was to vote for an extension of the March 29th deadline<sup>[3]</sup>. For its own sake<sup>[4]</sup> the eu should agree. A no-deal Brexit would hurt Britain grievously<sup>[5]</sup>, but it would also hurt the eu—and Ireland as grievously as Britain.
+>[1] immediate consequence 直接后果 immediate adj.立即的;直系的
+>[2] go to press 出版
+>[3] vote for an extension of the March 29th deadline 投票支持/延长/3月29日的最后期限
+>[4] For its own sake 为了…的目的(为了自身的利益)  for the sake of sth/for sth's sake
+>[5] grievously adv.极其严重地;令人担忧地 hurt grievously严重地伤害
+
+Mrs May’s plan is to hold yet another vote on her deal and to cudgel<sup>[1]</sup> Brexiteers into supporting it by threatening them with a long extension that she says risks the cancellation<sup>[2]</sup> of Brexit altogether.<sup>[3]</sup> At the same time she will twist the arms<sup>[4]</sup> of moderates<sup>[5]</sup> by pointing out that a no-deal Brexit could still happen, because avoiding it depends on the agreement of the eu, which is losing patience. It is a desperate tactic<sup>[6]</sup> from a prime minister who has lost her authority. It forces mps to choose between options they find wretched<sup>[7]</sup> when they are convinced that better alternatives are available. Even if it succeeds, it would deprive<sup>[8]</sup> Britain of the stable, truly consenting<sup>[9]</sup> majority that would serve as the foundation for<sup>[10]</sup> the daunting series of votes needed to enact<sup>[11]</sup> Brexit and for the even harder talks on the future relationship with the eu.<sup>[12]</sup>
+>[1] cudgel vt.用棍棒打;支持 take up the cudgels for
+>[2] risks the cancellation of 冒着...被取消的风险 risk n.风险+of;v.冒遭受…的风险+sth unpleasant;冒险(做某事)+doing sth;cancellation 取消[计划好的事情];[协议或安排的]取消,撤销
+>[3] 梅的计划是就对她的协议再次进行投票，并通过/威胁退欧人士/延长期限/来迫使/他们支持该协议。
+>[4] twist sb's arm 说服某人
+>[5] moderate n.[c]温和派;[un]缓和 [与此同时/她将通过/指出/不达成协议的英国退欧/仍有可能发生/来扭转温和派的怀抱/因为避免退欧取决于欧盟的协议/而欧盟/正在失去耐心]
+>[6] desperate tactic 绝望的策略 desperate adj.不顾一切的;极度渴望的;令人绝望的 tactic 策略
+>[7] wretched adj.讨厌的;极不愉快的 [当国会议员们确信有更好的选择时,他们不得不在他们认为糟糕的选择中做出选择]
+>[8] deprive v.剥夺;使不能有
+>[9] consenting 同意的;准许的
+>[10] serve as the foundation for 作为…的基础
+>[11] enact v.通过;表演;发生(尤指过去已发生的事件或情况)
+>[12] 即使公投成功,也会让英国失去稳定,真正同意的多数票/将成为/英国退欧所需的/一系列令人生畏的投票/的基础/也将成为/与欧盟未来关系的/更加艰难的/谈判的/基础
+
+To overcome the impasse<sup>[1]</sup> created by today’s divisions, Britain needs a long extension. The question is how to use it to forge that stable<sup>[2]</sup>, consenting majority in Parliament and the country.
+>[1] overcome the impasse 打破这种僵局 overcome v.克服;困扰be ~ by  impasse n.僵局
+>[2] forge that stable 建立稳定 [问题是如何利用它来建立稳定,在议会和国家中获得多数同意]
+
+An increasingly popular answer is: get rid of Mrs May. The prime minister’s deal has flopped<sup>[1]</sup> and her authority is shot<sup>[2]</sup>. A growing number of Tories<sup>[3]</sup> believe that a new leader with a new mandate<sup>[4]</sup> could break the logjam<sup>[5]</sup> (see article). Yet there is a high risk that Conservative Party<sup>[6]</sup> members would install a replacement who takes the country towards an ultra-hard<sup>[7]</sup> Brexit. What’s more, replacing Mrs May would do little to solve the riddle of<sup>[8]</sup> how to put together a deal. The parties are fundamentally split<sup>[9]</sup>. To believe that a new tenant<sup>[10]</sup> in Downing Street could put them back together again<sup>[11]</sup> and engineer a majority<sup>[12]</sup> is to believe the Brexiteers’ fantasy that theirs is a brilliant project that is merely being badly executed.<sup>[13]</sup>
+>[1] flop v.彻底失败;沉重地摔落;(因疲惫)一下子重重地坐下 ~ into a chair
+>[2] shoot v.射死;射伤[首相的协议失败了,她的权威被枪杀了]
+>[3] Tories 英国托利派;王党保守党
+>[4] mandate n.(政府或机构经选举而获得的)授权;(个人所获得的)授权;任期 v.授权;强制执行
+>[5] break the logjam 打破僵局 logjam n.僵局 [越来越多的(a growing number of)保守党人相信，新任命的新领导人可以打破僵局]
+>[6] Conservative Party 保守党
+>[7] ultra-hard 超艰难的[然而，保守党成员可能会安插一个接替者，带领英国走向超艰难的退欧，这是一个高风险]
+>[8] solve the riddle of 解开 riddle n.谜语v.猜(谜);解(谜) [更重要的是，取代梅/对解决/如何达成协议/的谜题/几乎毫无帮助(do little to)]
+>[9] fundamentally split 从根本上分裂[两党从根本上存在分歧]
+>[10] tenant n.租户;佃户
+>[11] put them back together again 把它们重新组装起来
+>[12] engineer a majority 成为多数派 v.设计制造;策划 ~ an event or situation
+>[13] 相信唐宁街的一位新房客能让他们重新团结起来，并让他们成为多数派，就等于相信/退欧派人士的幻想(认为他们的计划很出色/只是执行得很糟糕)
+
+Calls for<sup>[1]</sup> a general election are equally misguided<sup>[2]</sup>. The country is as divided as the parties. Britain could go through<sup>[3]</sup> its fourth poll<sup>[4]</sup> in as many years only to end up where it started.<sup>[5]</sup> Tory mps might fall into line<sup>[6]</sup> if they had been elected on a manifesto<sup>[7]</sup> promising to enact the deal<sup>[8]</sup>. But would the Conservatives really go into an election based on Mrs May’s scheme<sup>[9]</sup>, which has twice been given a drubbing<sup>[10]</sup> by mps and was described this week even by one supportive Tory mp as “the best turd that we have”? It does not have the ring of a successful campaign.<sup>[11]</sup>
+>[1] call for 须有;需要sth calls for a particular action or quality;要求 sb call for something
+>[2] misguided adj.(观点或计划)以错误观念为指导的;(人)误入歧途的 [要求举行大选同样是错误]
+>[3] go through  经历(尤为艰难时期);检查;通读;查阅;(法律、协议、决定)获得通过
+>[4] poll n.民意测验
+>[5] 英国可能会经历多年来的第四次民调，结果却与最初一样
+>[6] fall into line 同意
+>[7] manifesto n.宣言 promising adj.有望成功的;前景很好的
+>[8] promise to enact the deal 承诺执行协议 [如果托利党议员是在一份承诺制定协议的宣言中当选的，他们可能会同意这一观点]
+>[9] scheme n.计划;(政府或其他机构的)大规模计划 v.密谋
+>[10] drubbing n.彻底击败[梅的计划已两次遭到议员们的痛击]
+>[11] 它没有成功竞选的光环  campaign n.(有计划的)活动;运动
+
+To break the logjam<sup>[1]</sup>, Mrs May needs to do two things. The first is to consult<sup>[2]</sup> Parliament, in a series of indicative<sup>[3]</sup> votes that will reveal what form of Brexit can command a majority.<sup>[4]</sup> The second is to call a referendum<sup>[5]</sup> to make that choice legitimate<sup>[6]</sup>. Today every faction sticks to<sup>[7]</sup> its red lines, claiming to be speaking for the people. Only this combination can put those arguments to rest<sup>[8]</sup>.
+>[1] logjam n.僵局
+>[2] consult v.咨询;查阅;商量
+>[3] indicative adj.标示的;指示的
+>[4] 首先是通过一系列指示性投票来征求议会的意见/这些投票将揭示/什么样的英国退欧/能够赢得多数席位
+>[5] call a referendum 举行全民公投 referendum n.公民投票;全民公决
+>[6] legitimate adj.合法的;合理的
+>[7] stick to 紧跟;坚持;坚持(诺言、协议、决定或原则)
+>[8] put those arguments to rest 平息这些争论 arguments n.论据;讨论;辩论;争吵 put to rest 搁置;结束;平息
+
+Take these steps in turn.<sup>[1]</sup> Despite the gridlock<sup>[2]</sup>, the outlines<sup>[3]</sup> of a parliamentary compromise are visible. Labour wants permanent membership of the eu’s customs union<sup>[4]</sup>, which is a bit closer to the eu than Mrs May’s deal. Alternatively<sup>[5]</sup>, mps may favour a Norway-style set-up—which this newspaper has argued for and would keep Britain in the single market.<sup>[6]</sup> The eu is open to both. Only if Mrs May cannot establish a consensus should she return to her own much-criticised<sup>[7]</sup> plan.
+>[1] 依次采取这些步骤
+>[2] gridlock n.[un]交通全面堵塞;僵局
+>[3] outlines n.[c]概要;轮廓
+>[4] customs union 关税联盟;推动联盟成员之间自由贸易和建立共有的税务制度的组织[工党希望成为欧盟关税同盟的永久成员] membership 成员身份 
+>[5] alternatively adv.或者
+>[6] 或者,议员们可能倾向于/本报所称的/挪威式的设置/并将英国留在单一市场 （favour 更喜欢;偏袒）
+>[7] much-criticised 备受批评的 [只有在梅无法达成共识的情况下，她才应该回到自己饱受批评的计划上来]
+
+Getting votes for these or any other approach would require thinking beyond party lines.<sup>[1]</sup> That does not come naturally in Britain’s adversarial, majoritarian politics<sup>[2]</sup>. But the whipping system<sup>[3]</sup> is breaking down. Party structures are fraying<sup>[4]</sup>. Breakaway<sup>[5]</sup> groups and parties-within-parties<sup>[6]</sup> are forming on both sides of the Commons, and across it.<sup>[7]</sup> Offering mps free votes could foster cross-party support for a new approach.<sup>[8]</sup>
+>[1] 为这些或任何其他方法争取选票将需要超越党派界线的思考
+>[2] adversarial, majoritarian politics 对抗性的多数主义政治 adversarial adj.对抗性的[尤指政治和法律制度] majoritarian n.多数主义者
+>[3] whipping system 鞭笞制度[鞭笞制度正在瓦]
+>[4] fray v.磨损,磨散;烦躁[政党结构正在破碎]
+>[5] breakaway adj.分裂出来的
+>[6] parties-within-parties 党内政党
+>[7] 脱离党派的团体和党内政党正在下议院内外形成(on both sides of ... and across it)
+>[8] 为国会议员/提供免费投票/可能会促进/跨党派/对新方案的/支持
+
+The second step is a confirmatory<sup>[1]</sup> referendum. Brexit requires Britain to trade off<sup>[2]</sup> going its own way with maintaining profitable ties with the eu.<sup>[3]</sup> Any new Brexit plan that Parliament concocts<sup>[4]</sup> will inevitably demand compromises that disappoint<sup>[5]</sup> many, perhaps most, voters. Mrs May and other critics argue that holding another referendum would be undemocratic (never mind that<sup>[6]</sup> Mrs May is prepared to ask mps to vote on her deal a third or even fourth time). But the original referendum campaign utterly failed to capture the complexities of Brexit.<sup>[7]</sup> The truly undemocratic course would be to deny voters the chance to vouch that, yes, they are content with how it has turned out.<sup>[8]</sup>
+>[1] confirmatory 证实的;确定的
+>[2] trade off 权衡;卖掉;交替使用;交替换位
+>[3] 英国退欧要求英国/在与欧盟保持有利可图的关系的同时/也要以自己的方式进行权衡
+>[4] concoct v.编造;调制
+>[5] disappoint v.使失望[议会制定的任何新的英国退欧计划都将不可避免地要求/做出令许多(或许是大多数)选民失望的妥协]
+>[6] never mind that 别介意,没关系
+>[7] 但最初的公投活动完全没有抓住(failed to capture)英国退欧的复杂性
+>[8] 真正/不民主的/做法(course)是/拒绝/让选民有机会/证明(vouch)/他们对结果(turns out)如何感到满意(content with)
+
+And so any deal that Parliament approves must be put to the public for a final say<sup>[1]</sup>. It will be decried<sup>[2]</sup> by hardline<sup>[3]</sup> Brexiteers as treasonous<sup>[4]</sup> and by hardline Remainers as an act of self-harm.<sup>[5]</sup> Forget them. It is for the public to decide whether they are in favour of the new relationship with the eu—or whether, on reflection<sup>[6]</sup>, they would rather stick with<sup>[7]</sup> the one they already have.<sup>[8]</sup>
+>[1] final say 最终决定权[议会批准的任何协议都必须公开征求公众的最终意见]
+>[2] decry (强烈)批评 
+>[3] hardline adj.强硬的;不妥协的
+>[4] treasonous adj.叛逆的;谋反的;犯叛国罪的
+>[5] 它将被强硬的脱欧派/谴责为叛国/而强硬的留欧派则将其视为一种自我伤害行为
+>[6] on reflection 经再三考虑
+>[7] stick with 坚持+sth;紧跟+sb
+>[8] 公众应该决定/他们是支持(in favour of)与欧盟建立新的关系，还是经过反思后(on reflection)，他们更愿意坚持现有的关系
